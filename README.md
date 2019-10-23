@@ -1,7 +1,9 @@
 # Independent Study: INFO 4340 Curriculum Development
 
 ## Assignments:
-  - [Homework Assignment 1: Part 1 - Progressive Web Apps with Vue.js](/hw1-part1.pdf)
+  - [Homework 1 - Practice with Human-Centered Design & Progressive Web Apps](/hw1.pdf)
+  - [Homework 2 - User Interfaces: A Conversation with Users](/hw2.pdf)
+  - [Homework 3 - Component Libraries](/hw3.pdf)
 
 ## Assignment Starter Code for Students:
   - Will be posted at the conclusion of the course. This is a public repository.
